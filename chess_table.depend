@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1721734736 source:c:\users\batuh\onedrive\belgeler\codeblock\chess_table\src\chesspiece.cpp
+	"ChessPiece.h"
+
+1721734726 c:\users\batuh\onedrive\belgeler\codeblock\chess_table\include\chesspiece.h
+
+1721734774 source:c:\users\batuh\onedrive\belgeler\codeblock\chess_table\main.cpp
+	<iostream>
+	"ChessBoard.h"
+
+1721734936 c:\users\batuh\onedrive\belgeler\codeblock\chess_table\include\chessboard.h
+	<vector>
+	"ChessPiece.h"
+	"Position.h"
+
+1721734668 c:\users\batuh\onedrive\belgeler\codeblock\chess_table\include\position.h
+
+1721733947 source:c:\users\batuh\onedrive\belgeler\codeblock\chess_table\src\chessboard.cpp
+	"ChessBoard.h"
+	<iostream>
+
